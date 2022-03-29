@@ -39,7 +39,7 @@ nav{
 .nav-icon{
     width: 24px;
     height: 24px;
-    display: inline-block;
+    display: block;
     justify-content: center;
     align-items: center;
 }
@@ -118,7 +118,6 @@ nav{
 #search-button {
     border: 1px solid #d3d3d3;
     border-radius: 0 2px 2px 0;
-    heigth: 40px;
     width: 64px;
     background-color: #f8f8f8;
     justify-content: center;
